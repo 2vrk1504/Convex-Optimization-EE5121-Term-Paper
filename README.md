@@ -8,8 +8,10 @@ Convex Optimization - EE5121 Term Paper
 - Sounddevice (For loading audio wav files as NumPy Arrays)
 
 ### Note:
-For a given test, the input file format is ```<name of test>_<SNR of test>.wav```.\\
-The output file format is ```out_<name of test>_<SNR of test>.wav```.\\
+For a given test, the input file format is ```<name of test>_<SNR of test>.wav```.
+
+The output file format is ```out_<name of test>_<SNR of test>.wav```.
+
 To run a test case run ```python3 main.py <name of test>_<SNR of test>.wav```.
 
 ### Notable Outputs:
