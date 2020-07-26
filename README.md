@@ -13,9 +13,3 @@ For a given test, the input file format is ```<name of test>_<SNR of test>.wav``
 The output file format is ```out_<name of test>_<SNR of test>.wav```.
 
 To run a test case run ```python3 main.py <name of test>_<SNR of test>.wav```.
-
-### Notable Outputs:
-Original Test Case
-<img src="test1.png" alt="Original test" width="200"/>
-
-
